@@ -9,6 +9,6 @@ def run_guessing_game
   elsif answer == "exit"
   puts "Goodbye!"
   else
-    puts "Invalid "
+    puts "Invalid input"
   end
 end
