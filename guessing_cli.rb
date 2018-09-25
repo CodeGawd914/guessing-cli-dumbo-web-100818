@@ -1,8 +1,8 @@
 # def run_guessing_game
 #   loop do
 #   puts "Guess a number between 1 and 6."
-#   guess = rand(1..6)
 #   answer = gets.chomp
+#   guess = rand(1..6)
 #   if answer == "exit" 
 #   puts "Goodbye!"
 #   break
